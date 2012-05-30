@@ -1,5 +1,5 @@
-qzone.qq.com	qq空间
-www.renren.com	人人网
+*.qzone.qq.com	qq空间
+*.renren.com	人人网
 bbs.txtnovel.com	小说
 book.chaoxing.com	小说
 book.gougou.com	小说
@@ -12,11 +12,10 @@ book.zongheng.com	小说
 hjsm.tom.com	小说
 home.zongheng.com	小说
 material.mediav.com	小说
-me.qidian.com	小说
+*.qidian.com	小说
 my.hongxiu.com	小说
 novel.hongxiu.com	小说
 so.fmx.cn	小说
-top.baidu.com	小说
 view.booksky.org	小说
 vip.fmx.cn	小说
 vip.zhulang.com	小说
@@ -43,10 +42,8 @@ www.jjwxc.net	小说
 www.junshishu.com	小说
 www.kanshu.com	小说
 www.lcread.com	小说
-www.miibeian.gov.cn	小说
 www.paipaitxt.com	小说
 www.qdmm.com	小说
-www.qidian.com	小说
 www.qisuu.com	小说
 www.qwsy.com	小说
 www.readnovel.com	小说
@@ -64,7 +61,7 @@ www.yuncheng.com	小说
 www.zhaoxiaoshuo.com	小说
 www.zhulang.com	小说
 www.zongheng.com	小说
-bookcu.com	小说
+*.bookcu.com	小说
 baidu.lehecai.com	彩票
 caipiao.163.com	彩票
 caipiao.taobao.com	彩票
@@ -145,11 +142,6 @@ comic.ku6.com	影视
 comic.letv.com	影视
 comic.youku.com	影视
 donghua.cntv.cn	影视
-edu.360.cn	影视
-ent.163.com	影视
-ent.ifeng.com	影视
-ent.qq.com	影视
-ent.sina.com.cn	影视
 gaoqing.baofeng.com	影视
 live.tv.sohu.com	影视
 movie.douban.com	影视
@@ -221,7 +213,7 @@ zongyi.pptv.com	影视
 zy.tudou.com	影视
 zy.xunlei.com	影视
 zy.youku.com	影视
-weibo.com	新浪微博
+*.weibo.com	新浪微博
 bbs.people.com.cn	新闻
 bbs.phoenixtv.com	新闻
 chinese.joins.com	新闻
@@ -349,7 +341,6 @@ www.ihongpan.com	股票
 www.imeigu.com	股票
 www.jrj.com.cn	股票
 www.lifengba.com	股票
-www.miibeian.gov.cn	股票
 www.nasdaq.com	股票
 www.nbd.com.cn	股票
 www.newone.com.cn	股票
@@ -369,8 +360,7 @@ www.zhicheng.com	股票
 an.moonbasa.com	购物
 chujian.360.cn	购物
 click.mediav.com	购物
-click.union.360buy.com	购物
-dangdang.com	购物
+*.dangdang.com	购物
 cps.yintai.com	购物
 huodong.360.cn	购物
 i.360.cn	购物
@@ -379,11 +369,12 @@ mall.360.cn	购物
 mall.jumei.com	购物
 old.mall.360.cn	购物
 r.eclink.cn	购物
-s.click.taobao.com	购物
+*.360buy.com	购物
+*.taobao.com	购物
 s.mall.360.cn	购物
 temai.dazhe.cn	购物
 tuan.360.cn	购物
-union.suning.com	购物
+*.suning.com	购物
 www.51youpin.com	购物
 www.amazon.cn	购物
 www.camel.com.cn	购物
@@ -494,3 +485,9 @@ yxyz.wan.360.cn	页游
 yy.360.cn	页游
 zqjl.wan.360.cn	页游
 zwjs.wan.360.cn	页游
+17roco.qq.com	页游
+*.61.com	页游
+www.9aola.com	页游
+7.qq.com	页游
+*.xd.com	页游
+frxz2.4399.com	页游
